@@ -1,0 +1,13 @@
+8/25/25, 5:45 PM Accelerate intelligent document processing with generative Al on AWS | Artificial Intelligence
+e Automated classification of grievances vs. appeals
+
+e Created a reusable framework deployable across multiple healthcare customers
+e Integrated with human-in-the-loop review for cases requiring expert validation
+
+e Leveraged modular architecture to integrate with existing systems, enabling custom document splitting and
+
+large-scale document processing
+
+Solution overview
+
+The GenAl ID

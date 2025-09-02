@@ -1,0 +1,6 @@
+atements, and validate insurance claims. Healthcare providers rely on IDP to
+
+extract patient information from medical records, process insurance forms, and handle lab results efficiently.
+Manufacturing and logistics companies use IDP to process invoices and purchase orders, extract shipping
+
+https://aws.amazon.com/blogs/machine-learning/accelerate-intelligent-document-processing-with-generative-ai-on-aws/ 1/11

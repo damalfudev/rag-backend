@@ -1,0 +1,13 @@
+il address and choose your processing pattern (default is Pattern 1, using Amazon Bedrock Data
+Automation).
+
+2. Use defaults for all other configuration parameters.
+
+3. Deploy the stack.
+
+The stack takes approximately 15-20 minutes to deploy the resources. After deployment, you will receive an email
+with login credentials for the web interface.
+
+Process documents
+After you deploy the solution, you can start processing documents:
+1. Use the web interface to upload a sample document (you can use t

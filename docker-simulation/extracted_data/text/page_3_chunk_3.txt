@@ -1,0 +1,28 @@
+oDB
+
+Tracking table
+Amazon Cognito Amazon CloudFront
+Amazon S3
+Input bucket (PDFs) AWS AppSync
+API
+Amazon S3
+CI Web app bucket
+cs
+
+Client Amazon EventBridge
+
+= AWS Step Functions: Amazon Bedrock Data Automation workflow
+application AWS Lambda Pp
+
+Tracker
+
+EA AWS Lambda Amazon Bedrock AWSLambda AWSLambda | Amazon S3
+
+Invoke Amazon Bedrock Data Automation Process Results Summarization | Output bucket
+Data Automation Project (JSON files)
+
+AWS Lambda
+
+Queue Sender Amazon DynamoDB
+
+Concurrent counter

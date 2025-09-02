@@ -1,0 +1,7 @@
+he provided sample: lending_package.pdf).
+
+In production, you typically automate loading your documents directly to the Amazon Simple Storage Service
+
+(Amazon S3) input bucket, automatically triggering processing. To learn more, see Testing without the UI.
+
+https://aws.amazon.com/blogs/machine-learning/accelerate-intelligent-document-processing-with-generative-ai-on-aws/ 6/11

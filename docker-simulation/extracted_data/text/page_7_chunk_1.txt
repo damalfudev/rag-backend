@@ -1,0 +1,25 @@
+g ©@ Failed @ Pending
+Steps Timeline
+InvokeDataAutomation
+¥% SUCCEEDED 0:55
+. . ProcessResultsStep
+2. Examine the extracted data with confidence scores.
+Visual Document Editor x
+Document Pages (1) Document Data
+L J a
+EYE_COLOR:
+Confidence: 93.8% / Threshold: 70.0%
+BLU
+ADDRESS _DETAILS
+an:
+Confidence: 93.8% / Threshold: 70.0%
+ANY CITY
+ZIP_CODE:
+Confidence: 94.9% / Threshold: 70.0%
+92127
+STATE:
+Confidence: 87.9% / Threshold: 70.0%
+CA
+¢2
+Page 1 of 1 STREET_ADDRESS:
+Zoom: - 100%+ Pan:——+ 1 | © Confi

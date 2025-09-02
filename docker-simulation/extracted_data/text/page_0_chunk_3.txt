@@ -1,0 +1,7 @@
+ security and compliance requirements. What
+works in a demo with a handful of documents often breaks down when processing thousands of documents daily in
+a production environment.
+
+In this post, we introduce our open source GenAl IDP Accelerator—a tested solution that we use to help customers
+across industries address their document processing challenges. Automated document processing workflows
+accurately extract structured information from documents, reducing manual effort. We will show you how

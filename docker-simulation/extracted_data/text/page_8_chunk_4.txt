@@ -1,0 +1,4 @@
+ reliability and scale of AWS. You can process hundreds or even millions of
+documents to achieve better results faster and more cost-effectively than traditional approaches.
+
+https://aws.amazon.com/blogs/machine-learning/accelerate-intelligent-document-processing-with-generative-ai-on-aws/ 9/11

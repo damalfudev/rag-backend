@@ -1,0 +1,16 @@
+
+v Deployment Info
+
+Upload (1 files)
+Stack Name: IDP-BDA-3
+
+Version: 0.3.7
+Build: 2025-07-14 20:33:32 Upload Results:
+Pattern: Pattern1 @ lending_package.pdf: Uploaded successfully
+
+Object Key: 20250714-1500-janeDoe/lending_package.pdf
+
+1. Select your document from the document list and choose View Processing Flow to watch as your document
+flows through the pipeline.
+
+https://aws.amazon.com/blogs/machine-learning/accelerate-intelligent-document-processing-with-generative-ai-on-aws/ 7/11

@@ -1,0 +1,9 @@
+8/25/25, 5:45 PM Accelerate intelligent document processing with generative Al on AWS | Artificial Intelligence
+
+information, and handle quality certificates. Government agencies use IDP to process citizen applications, extract
+data from tax forms, manage permits and licenses, and enforce regulatory compliance.
+
+The generative Al revolution in IDP
+
+Traditional IDP solutions relied on template-based extraction, regular expressions, and classical machine learning
+(ML) models. Though functional, th

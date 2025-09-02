@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  rag-backend:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./uploads:/app/uploads
+      - ./data:/app/data
+      - ~/.aws:/root/.aws:ro
+    environment:
+      - AWS_DEFAULT_REGION=us-east-1
+      - PYTHONPATH=/app
+    restart: unless-stopped

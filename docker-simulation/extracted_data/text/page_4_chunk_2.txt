@@ -1,0 +1,8 @@
+atterns:
+o Pattern 1 —Uses Amazon Bedrock Data Automation, a fully managed service that offers rich out-of-the-box
+features, ease of use, and straightforward per-page pricing. This pattern is recommended for most use cases.
+
+o Pattern 2 -Uses Amazon Textract and Amazon Bedrock with Amazon Nova, Anthropic’s Claude, or custom
+fine-tuned Amazon Nova models. This pattern is ideal for complex documents requiring custom logic.
+
+© Pattern 3 —- Uses Amazon Textract, Amazon SageMaker with a fine-tuned mo

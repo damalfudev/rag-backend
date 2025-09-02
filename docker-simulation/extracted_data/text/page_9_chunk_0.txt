@@ -1,0 +1,10 @@
+8/25/25, 5:45 PM Accelerate intelligent document processing with generative Al on AWS | Artificial Intelligence
+
+Visit the GitHub repository for detailed guides and examples and choose watch to stay informed on new releases
+and features. AWS Professional Services and AWS Partners are available to help with implementation. You can also
+
+join the GitHub community to contribute improvements and share your experiences.
+
+About the Authors
+
+Bob Strahan is a Principal Solutions Architect in the AWS Gen

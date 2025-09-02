@@ -1,0 +1,20 @@
+nd Anthropic models on Amazon Bedrock. For more details, see Access Amazon Bedrock foundation
+models. _
+
+Deploy the GenAl IDP Accelerator
+
+To deploy the GenAl IDP Accelerator, you can use the provided AWS CloudFormation template. For more details, see
+
+the quick start option on the GitHub repo. The high-level steps are as follows:
+
+1. Log in to your AWS account.
+
+2. Choose Launch Stack for your preferred AWS Region:
+
+Region Launch Stack
+
+US East (N. Virginia)
+
+US West (Oregon)
+
+1. Enter your ema

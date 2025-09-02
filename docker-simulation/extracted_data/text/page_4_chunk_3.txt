@@ -1,0 +1,10 @@
+del for classification, and Amazon
+Bedrock for extraction. This pattern is ideal for documents requiring specialized classification.
+
+We expect to add more pattern options to handle additional real-world document processing needs, and to take
+advantage of ever-improving state-of-the-art capabilities:
+
+e Few-shot learning — Improve accuracy for classification and extraction by providing few-shot examples to guide
+the Al models
+
+¢ Confidence assessment — Al-powered quality assurance that evaluates

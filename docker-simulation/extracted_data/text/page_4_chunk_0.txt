@@ -1,0 +1,10 @@
+8/25/25, 5:45 PM Accelerate intelligent document processing with generative Al on AWS | Artificial Intelligence
+
+Some of the key features of the solution include:
+
+e Serverless architecture — Built on AWS Lambda, AWS Step Functions, and other serverless technologies for
+
+queueing, concurrency management, and retries to provide automatic scaling and pay-per-use pricing for
+production workloads of many sizes
+
+¢ Generative Al-powered document packet splitting and classification — Intelligent docume

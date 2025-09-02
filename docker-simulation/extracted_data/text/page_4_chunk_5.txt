@@ -1,0 +1,11 @@
+atural language through Amazon Bedrock
+Knowledge Bases
+
+¢ Built-in evaluation — Framework to evaluate and improve accuracy against baseline data
+
+e Analytics and reporting database - Centralized analytics database for tracking processing metrics, accuracy
+trends, and cost optimization across document workflows, and for analyzing extracted document content using
+Amazon Athena
+
+e No-code configuration — Customize document types, extraction fields, and processing logic through
+configuration, editab

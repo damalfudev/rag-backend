@@ -1,0 +1,21 @@
+8/25/25, 5:45 PM Accelerate intelligent document processing with generative Al on AWS | Artificial Intelligence
+
+3. Use the knowledge base feature to ask questions about processed content.
+
+° eared
+Q strahanr@amazon.com ¥
+
+GenAl IDP Console (preview)
+
+Tools
+
+Document List
+
+Document KB
+Documents Knowledge Base Query Tool
+Upload Document(s)
+View/Edit Configuratior
+**Q: What's the expiration date of Maria Garcia's driver's licence? **
+¥ Resources
+
+The expiration date of Maria Garcia's driver's lice

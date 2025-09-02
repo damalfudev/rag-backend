@@ -1,0 +1,7 @@
+ese approaches required extensive setup, struggled with document variations,
+and achieved limited accuracy on complex documents.
+
+The emergence of large language models (LLMs) and generative Al has fundamentally transformed IDP capabilities.
+Modern Al models can understand document context, handle variations without templates, achieve near-human
+accuracy on complex extractions, and adapt to new document types with minimal examples. This shift from rule-
+based to intelligence-based processing mea

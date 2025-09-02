@@ -1,0 +1,11 @@
+ocument types (such as invoices, contracts, or forms)
+
+¢ Data extraction — Pulling structured information from unstructured documents
+
+e Assessment - Evaluating the quality and confidence of extracted data
+
+¢ Summarization — Creating concise summaries of document content
+
+e Evaluation — Measuring accuracy and performance against expected outcomes
+These capabilities are critical across industries. In financial services, organizations use IDP to process loan
+applications, extract data from bank st

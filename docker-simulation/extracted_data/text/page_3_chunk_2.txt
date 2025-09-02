@@ -1,0 +1,15 @@
+s a modular pipeline that enriches documents at each stage, from OCR to classification, to
+
+extraction, to assessment, to summarization, and ending with evaluation.
+
+You can deploy and customize each step independently, so you can optimize for your specific use cases while
+maintaining the benefits of the integrated workflow.
+
+The following diagram illustrates the solution architecture, showing the default Bedrock Data Automation workflow
+(Pattern-1).
+
+AWS Cloud
+
+Authenticated
+user
+= Amazon Dynam

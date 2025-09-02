@@ -1,0 +1,6 @@
+dence: 91.8% / Threshold: 70.0%
+123 ANY STREET
+CLASS:
+Confidence: 90.2% / Threshold: 70.0%
+c
+https://aws.amazon.com/blogs/machine-learning/accelerate-intelligent-document-processing-with-generative-ai-on-aws/ 8/11

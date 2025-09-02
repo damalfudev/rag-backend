@@ -1,0 +1,13 @@
+ extraction field confidence, used to
+
+indicate documents for human review
+
+¢ Human-in-the-loop (HITL) review — Integrated workflow for human review of low-confidence extractions using
+Amazon SageMaker Augmented Al (Amazon A2I), currently available for Pattern 1, with support for Patterns 2
+
+and 3 coming soon
+
+¢ Web user interface — Responsive web UI for monitoring document processing, viewing results, and managing
+configurations
+
+e¢ Knowledge base integration — Query processed documents using n

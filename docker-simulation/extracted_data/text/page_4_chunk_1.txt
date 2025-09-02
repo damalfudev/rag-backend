@@ -1,0 +1,9 @@
+nt classification using
+Amazon Bedrock Data Automation or Amazon Bedrock multimodal FMs, including support for multi-document
+packets and packet splitting
+
+e Advanced Al key information extraction - Key information extraction using Amazon Bedrock Data Automation
+or Amazon Bedrock multimodal FMs
+
+e Multiple processing patterns - Choose from pre-built patterns optimized for different workloads with different
+configurability, cost, and accuracy requirements, or extend the solution with additional p

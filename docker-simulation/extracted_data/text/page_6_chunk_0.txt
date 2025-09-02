@@ -1,0 +1,26 @@
+8/25/25, 5:45 PM Accelerate intelligent document processing with generative Al on AWS | Artificial Intelligence
+
+GenAI IDP Console (preview)
+
+@ Welcome to GenAl IDP (GenAIIDP)
+
+Tools
+
+Document Processing > Documents > Upload Documents
+
+Document List
+
+Document KB
+Upload Documents
+
+Upload Document(s)
+
+View/Edit Configuration
+Optional folder prefix (e.g., invoices/2024)
+
+v Resources | 20250714-1500-JaneDoe
+README [4
+
+5 Code [2 Select files to upload
+ource Code eT
+Choose Files | lending_package.pdf

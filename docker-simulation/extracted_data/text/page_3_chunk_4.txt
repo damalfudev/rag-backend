@@ -1,0 +1,39 @@
+
+
+Amazon SQS AWS Lambda Amazon S3 AWS Lambda
+Queue Processor Evaluation baseline bucket Evaluation
+
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+|
+|
+'
+'
+'
+'
+'
+'
+'
+'
+'
+'
+'
+'
+'
+'
+
+Refer to the GitHub repo for additional details and processing patterns.
+
+https://aws.amazon.com/blogs/machine-learning/accelerate-intelligent-document-processing-with-generative-ai-on-aws/ 4/11

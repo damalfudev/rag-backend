@@ -1,0 +1,10 @@
+ this
+ready-to-deploy solution can help you build those workflows with generative Al on AWS in days instead of months.
+
+Understanding intelligent document processing
+
+Intelligent document processing (IDP) encompasses the technologies and techniques used to extract and process
+data from various document types. Common IDP tasks include:
+
+¢ OCR (Optical Character Recognition) — Converting scanned documents and images into machine-readable text
+¢ Document classification — Automatically identifying d

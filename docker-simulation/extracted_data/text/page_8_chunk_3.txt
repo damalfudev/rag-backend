@@ -1,0 +1,16 @@
+ assistance.
+
+Update an existing GenAl IDP Accelerator stack
+
+You can update your existing GenAl IDP Accelerator stack to the latest release. For more details, see Updating an
+Existing Stack.
+
+Clean up
+
+When you're finished experimenting, clean up your resources by using the AWS CloudFormation console to delete
+the IDP stack that you deployed.
+
+Conclusion
+
+In this post, we discussed the GenAl IDP Accelerator, a new approach to document processing that combines the
+power of generative Al with the

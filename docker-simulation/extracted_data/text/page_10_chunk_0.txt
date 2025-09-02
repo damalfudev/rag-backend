@@ -1,0 +1,9 @@
+8/25/25, 5:45 PM Accelerate intelligent document processing with generative Al on AWS | Artificial Intelligence
+
+Spencer Romo is a Senior Data Scientist in the AWS Generative Al Innovation Center.
+
+Vamsi Thilak Gudi is a Solutions Architect in the AWS World Wide Public Sector team.
+
+Acknowledgments
+We would like to thank Abhi Sharma, Akhil Nooney, Aleksei lancheruk, Ava Kong, Boyi Xie, Diego Socolinsky,
+Guillermo Tantachuco, Ilya Marmur, Jared Kramer, Jason Zhang, Jordan Ratner, Mariano Bellagam

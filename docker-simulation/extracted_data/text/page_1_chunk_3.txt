@@ -1,0 +1,9 @@
+tures, high accuracy, ease of use, and straightforward per-page pricing, Amazon Bedrock
+state-of-the-art foundation models (FMs) for complex documents requiring custom logic, and other AWS Al services
+to provide a flexible, scalable starting point for enterprises to build document automation tailored to their specific
+needs.
+
+The following is a short demo of the solution in action, in this case showcasing the default Amazon Bedrock Data
+Automation processing pattern.
+
+https://aws.amazon.com/blog

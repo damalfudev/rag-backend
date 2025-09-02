@@ -1,0 +1,11 @@
+care
+document processing for their clients. Processing over 10,000 healthcare documents monthly with potential to scale
+to 70,000, they needed a solution that could handle complex medical documentation with high accuracy.
+
+The results speak for themselves:
+
+¢ Savings potential of over 1,900 person-hours annually through automation
+
+e Achieved extraction accuracy to help minimize financial penalties from processing errors
+
+https://aws.amazon.com/blogs/machine-learning/accelerate-intelligent-docum

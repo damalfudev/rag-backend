@@ -1,0 +1,9 @@
+8/25/25, 5:45 PM Accelerate intelligent document processing with generative Al on AWS | Artificial Intelligence
+
+Real-world impact
+The GenAl IDP Accelerator is already transforming document processing for organizations across industries.
+Competiscan: Transforming marketing intelligence at scale
+
+Competiscan, a leader in competitive marketing intelligence, faced a massive challenge: processing 35,000-45,000
+
+marketing campaigns daily while maintaining a searchable archive of 45 million campaigns 

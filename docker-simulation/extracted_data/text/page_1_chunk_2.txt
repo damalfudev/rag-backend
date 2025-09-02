@@ -1,0 +1,9 @@
+ns organizations can now process different document types with high
+accuracy, dramatically reducing the time and cost of implementation.
+
+GenAl IDP Accelerator
+
+We're excited to share the GenAl IDP Accelerator—an open source solution that transforms how organizations
+handle document processing by dramatically reducing manual effort and improving accuracy. This serverless
+foundation offers processing patterns which use Amazon Bedrock Data Automation for rich out-of-the-box
+document processing fea

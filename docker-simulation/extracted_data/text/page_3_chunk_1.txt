@@ -1,0 +1,7 @@
+P Accelerator is a modular, serverless solution that automatically converts unstructured documents into
+structured, actionable data. Built entirely on AWS services, it provides enterprise-grade scalability, security, and cost-
+effectiveness while requiring minimal setup and maintenance. Its configuration-driven design helps teams quickly
+adapt prompts, extraction templates, and validation rules for their specific document types without touching the
+underlying infrastructure.
+
+The solution follow

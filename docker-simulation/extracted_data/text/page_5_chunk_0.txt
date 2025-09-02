@@ -1,0 +1,9 @@
+8/25/25, 5:45 PM Accelerate intelligent document processing with generative Al on AWS | Artificial Intelligence
+¢ Developer-friendly python package — For data science and engineering teams who want to experiment,
+optimize, or integrate the IDP capabilities directly into their workflows, the solution's core logic is available
+through the idp_common Python package
+
+Prerequisites
+
+Before you deploy the solution, make sure you have an AWS account with administrator permissions and access to
+Amazon a

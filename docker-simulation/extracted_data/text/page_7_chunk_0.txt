@@ -1,0 +1,13 @@
+8/25/25, 5:45 PM
+
+Accelerate intelligent document processing with generative Al on AWS | Artificial Intelligence
+
+Document Processing Flow MW AutoRefresh Of | Enable Auto-Refresh [ CG Refresh Now | |25tupdated: 4:44:36 PM x
+Execution Overview
+Status Duration Started
+RUNNING 1:50 7114/2025, 4:43:24 PM
+Processing Flow
+v 1 bod fy Ls}
+InvokeDataAutomation ProcessResultsStep CheckHITLRequired SummarizationChoice SummarizationStep
+SUCCEEDED ‘SUCCEEDED ‘SUCCEEDED ‘SUCCEEDED RUNNING
+@ Completed @ Runnin

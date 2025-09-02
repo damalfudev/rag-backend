@@ -1,0 +1,3 @@
+le in the web UI
+
+https://aws.amazon.com/blogs/machine-learning/accelerate-intelligent-document-processing-with-generative-ai-on-aws/ 5/11

@@ -1,0 +1,6 @@
+invoices, contracts, insurance claims, medical
+records, and financial statements. Despite the critical role these documents play, an estimated 80-90% of the data
+they contain is unstructured and largely untapped, hiding valuable insights that could transform business outcomes.
+Despite advances in technology, many organizations still rely on manual data entry, spending countless hours
+extracting information from PDFs, scanned images, and forms. This manual approach is time-consuming, error-
+prone

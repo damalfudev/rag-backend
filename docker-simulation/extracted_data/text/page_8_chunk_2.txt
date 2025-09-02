@@ -1,0 +1,12 @@
+ckage. pdf, testsummary3/lending_package.pdf, fixpages1 /lending_package.pdt
+
+Enter a question to query your document knowledge base. | Submit
+
+Alternative deployment methods
+
+You can build the solution from source code if you need to deploy the solution to additional Regions or build and
+
+deploy code changes.
+
+We hope to add support for AWS Cloud Development Kit (AWS CDK) and Terraform deployments. Follow the GitHub
+repository for updates, or contact AWS Professional Services for implementation
